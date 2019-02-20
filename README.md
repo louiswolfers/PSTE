@@ -19,4 +19,9 @@ Nous avons décidé d'utiliser des photorésistances pour détecter la présence
 
 ## Points d'amélioration
 
+* prendre en compte les "en passant"
+* que faire pour la promotion des pions? (i.e. lorsqu'ils arrivent au bout de l'échiquier)
+* faire le même projet pour toutes les cases
+* afficher un vrai échiquier sur l'interface graphique avec la position actuelle des pièces
+
 ![Photo du projet](photo.jpg)
