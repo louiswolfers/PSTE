@@ -1,6 +1,6 @@
 Attention, le code est horrible et pourrais être largement amélioré.
 
-## PSTE 2017-2018
+# PSTE 2017-2018
 
 Ce projet était un projet académique: nous devions créer un produit qui repondait à un besoin. Nous avons choisi de créer un échiquier capable de detecter les mouvements des pièces et de les sauvegarder.
 
