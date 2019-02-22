@@ -24,4 +24,7 @@ Nous avons décidé d'utiliser des photorésistances pour détecter la présence
 * faire le même projet pour toutes les cases
 * afficher un vrai échiquier sur l'interface graphique avec la position actuelle des pièces
 
+## Photo
+
 ![Photo du projet](photo.jpg)
+(oui, c'est moche)
